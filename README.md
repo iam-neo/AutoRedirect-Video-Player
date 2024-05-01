@@ -37,4 +37,4 @@ This project is a simple responsive webpage with a video player that automatical
 This project is licensed under the MIT License - see the [LICENSE](MIT-LICENSE.txt) file for details.
 
 # Credits
-This project was created by [Nirmal Magar] (https://github.com/iam-neo). You can reach out to me via email or find me on GitHub.
+This project was created by [Nirmal Magar](https://github.com/iam-neo) . You can reach out to me via email or find me on GitHub.
